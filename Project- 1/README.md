@@ -12,7 +12,7 @@ This Tableau dashboard visualizes data from the Global Superstore dataset, provi
 To view the dashboard, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Open the Tableau workbook file (`Superstore Analysis Dashboard.twb`) using Tableau Desktop.
+2. Open the Tableau workbook file (`Super Store Analysis Dashboard.twb`) using Tableau Desktop.
 3. Navigate to the dashboard tab to explore the visualizations.
 
 ## Data Source
